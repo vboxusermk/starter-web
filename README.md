@@ -8,4 +8,4 @@ As stated above, the main purpose is to provide simple examples for Git Training
 This is a simple web project, deployment can be on any server or even local file system
 ## How to Contribute
 ### Copyright
-2024 Git Training
+2024 Git Training - 08/05/2024
